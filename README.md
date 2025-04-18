@@ -12,8 +12,6 @@ A machine learning project that analyzes user reviews of Steam games to predict 
 
 ---
 
----
-
 ## 📌 Features
 
 - Clean and preprocess Steam game reviews
